@@ -37,6 +37,7 @@ public class Main {
     f(m) = min(f(m - a[i])) + 1
     m: 18:
     a[]: {1,3,6,7}
+    这里假设a从小到大排序的
      */
     static void f(int m){
         for(int j = 0; j < m + 1; j++){
