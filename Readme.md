@@ -10,3 +10,6 @@ Java时间顺序：
 2019.4.2 coin、plusequalm
 2019.4.4 subpic
 2019.4.5 maxsamestr、kmp
+2019.4.6-4.7 base种排序和permutation
+
+4.7  Level_0添加minproduct
