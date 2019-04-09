@@ -1,4 +1,4 @@
-package Base.sort.insertsort;
+package Base.sort.java.insertsort;
 
 public class Main {
     /*

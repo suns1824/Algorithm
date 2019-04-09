@@ -1,4 +1,4 @@
-package Base.permutation;
+package Base.permutation.java;
 
 
 /*

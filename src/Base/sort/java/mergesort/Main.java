@@ -1,4 +1,4 @@
-package Base.sort.mergesort;
+package Base.sort.java.mergesort;
 
 /*
 归并排序

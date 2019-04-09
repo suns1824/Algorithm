@@ -1,4 +1,4 @@
-package Base.sort.quicksort;
+package Base.sort.java.quicksort;
 
 import java.util.ArrayList;
 import java.util.List;

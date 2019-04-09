@@ -1,4 +1,4 @@
-package Base.sort.heapsort;
+package Base.sort.java.heapsort;
 
 public class Main {
     /*
