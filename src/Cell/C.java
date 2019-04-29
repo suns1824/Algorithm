@@ -146,12 +146,13 @@ public class C {
             int value = Math.random() > (1 - prob) ? 1 : 0;
             nodeList.add(new Node(value, i));
         }
-//        for(int i = 0; i < len; i++) {
-//            for (int j = 0; j < len; j++) {
-//                System.out.print(nodeList.get(i * len + j).value + " ");
-//            }
-//            System.out.println(" ");
-//        }
+        for(int i = 0; i < len; i++) {
+            for (int j = 0; j < len; j++) {
+                System.out.print(nodeList.get(i * len + j).value + " ");
+            }
+            System.out.println(" ");
+        }
+        System.out.println("---------");
     }
 
     /*

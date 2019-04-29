@@ -49,8 +49,7 @@ public class Main {
             for(int i = 0; i < a.length; i++) {
                 if(j - a[i] >= 0){
                     MIN =  min(MIN, b[j - a[i]] + 1);
-                }
-                else break;
+                } else break;
                 b[j] = MIN;
             }
         }
